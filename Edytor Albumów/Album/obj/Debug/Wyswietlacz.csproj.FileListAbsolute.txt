@@ -1,0 +1,10 @@
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Wyswietlacz.UI.Okno.resources
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Wyswietlacz.csproj.GenerateResource.cache
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Wyswietlacz.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Edytor Albumów\Album\bin\Debug\Wyswietlacz.exe.config
+C:\Programy\C#\Edytor Albumów\Album\bin\Debug\Wyswietlacz.exe
+C:\Programy\C#\Edytor Albumów\Album\bin\Debug\Wyswietlacz.pdb
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Wyswietlacz.Properties.Resources.resources
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Wyswietlacz.exe
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Wyswietlacz.pdb
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Wyswietlacz.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edytor Albumów", "Edytor Albumów\Edytor Albumów.csproj", "{086CB7C7-46C5-496B-AEB8-7B2ACC6EA345}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wyswietlacz", "Album\Wyswietlacz.csproj", "{455A18E7-50F5-4806-987F-B18FE0A98600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086CB7C7-46C5-496B-AEB8-7B2ACC6EA345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086CB7C7-46C5-496B-AEB8-7B2ACC6EA345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086CB7C7-46C5-496B-AEB8-7B2ACC6EA345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086CB7C7-46C5-496B-AEB8-7B2ACC6EA345}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455A18E7-50F5-4806-987F-B18FE0A98600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455A18E7-50F5-4806-987F-B18FE0A98600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455A18E7-50F5-4806-987F-B18FE0A98600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455A18E7-50F5-4806-987F-B18FE0A98600}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A61FB4BE-B958-4472-A829-26CC34C7A6C5}
+	EndGlobalSection
+EndGlobal

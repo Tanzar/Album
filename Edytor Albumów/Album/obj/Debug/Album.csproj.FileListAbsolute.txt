@@ -1,0 +1,7 @@
+C:\Programy\C#\Edytor Albumów\Album\bin\Debug\Album.exe.config
+C:\Programy\C#\Edytor Albumów\Album\bin\Debug\Album.exe
+C:\Programy\C#\Edytor Albumów\Album\bin\Debug\Album.pdb
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Album.csprojAssemblyReference.cache
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Album.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Album.exe
+C:\Programy\C#\Edytor Albumów\Album\obj\Debug\Album.pdb

@@ -1,0 +1,10 @@
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\bin\Debug\Edytor Albumów.exe.config
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\bin\Debug\Edytor Albumów.exe
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\bin\Debug\Edytor Albumów.pdb
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\obj\Debug\Edytor Albumów.csprojAssemblyReference.cache
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\obj\Debug\Edytor Albumów.csproj.CoreCompileInputs.cache
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\obj\Debug\Edytor Albumów.exe
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\obj\Debug\Edytor Albumów.pdb
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\obj\Debug\Edytor_Albumów.UI.Edytor.resources
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\obj\Debug\Edytor Albumów.csproj.GenerateResource.cache
+C:\Programy\C#\Edytor Albumów\Edytor Albumów\obj\Debug\Edytor_Albumów.UI.NowyAlbum.resources
