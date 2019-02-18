@@ -114,6 +114,10 @@ namespace Edytor_Albumów.UI
            
             double p = (486 * wz) / hz;
             int wp = (int)p;
+            if(wp > 864)
+            {
+                wp = 864;
+            }
             this.Podglad.Width = wp;
             this.RamkaD.Width = wp;
             this.RamkaG.Width = wp;
